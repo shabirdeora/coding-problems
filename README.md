@@ -1,2 +1,2 @@
 # coding-problems
-The repository is a code base to a bunch of coding problems and solution implementation in Java.
+This repository is a codebase to a bunch of coding problems and solution implementation in Java.
