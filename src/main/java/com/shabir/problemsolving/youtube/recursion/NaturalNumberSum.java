@@ -1,4 +1,4 @@
-package com.shabir.problemsolving.anuj.recursion;
+package com.shabir.problemsolving.youtube.recursion;
 
 /**
  * Find the sum of n natural number using recursion.

@@ -1,4 +1,4 @@
-package com.shabir.problemsolving.anuj.recursion;
+package com.shabir.problemsolving.youtube.recursion;
 
 /**
  * Calculate the power of b to the base a

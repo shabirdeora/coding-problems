@@ -1,4 +1,4 @@
-package com.shabir.problemsolving.anuj.recursion;
+package com.shabir.problemsolving.youtube.recursion;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
